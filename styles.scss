@@ -1,0 +1,20 @@
+ 
+ $primary-color: palevioletred;
+ $secondary-color: peachpuff;
+ 
+ h1 {
+     color: $primary-color;
+     text-align: center;
+     text-decoration: underline;
+ }
+ 
+ body {
+     margin: 0;
+     text-align: center;
+     background: $secondary-color;
+     color: $primary-color;
+ }
+
+ ul {
+     color: $primary-color;
+ }

@@ -1,16 +1,18 @@
- 
- h1 {
-     color: palevioletred;
-     text-align: center;
-     text-decoration: underline;
- }
- 
- body {
-     text-align: center;
-     background: peachpuff;
-     color: palevioletred
- }
+h1 {
+  color: palevioletred;
+  text-align: center;
+  text-decoration: underline;
+}
 
- ul {
-     color: palevioletred;
- }
+body {
+  margin: 0;
+  text-align: center;
+  background: peachpuff;
+  color: palevioletred;
+}
+
+ul {
+  color: palevioletred;
+}
+
+/*# sourceMappingURL=styles.css.map */

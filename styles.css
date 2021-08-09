@@ -1,5 +1,5 @@
  
- h1{
+ h1 {
      color: palevioletred;
      text-align: center;
      text-decoration: underline;
@@ -7,5 +7,5 @@
  
  body {
      text-align: center;
-     background-color: peachpuff;
+     background: peachpuff;
  }
